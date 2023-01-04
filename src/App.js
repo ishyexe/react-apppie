@@ -8,10 +8,7 @@ export default function App() {
       <footer>
         {" "}
         this app was created by ishy ♡ and is open sourced on
-        <a href="https://github.com/ishyexe/react-weather-app">
-          {" "}
-          github !{" "}
-        </a>{" "}
+        <a href="https://github.com/ishyexe/react-apppie"> github</a> !
       </footer>
     </div>
   );
